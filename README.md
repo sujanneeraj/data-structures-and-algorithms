@@ -2,4 +2,4 @@
 
 ## LEET CODE PROBLEMS TRACKER
 
-- [] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
