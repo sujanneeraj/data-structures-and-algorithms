@@ -1,6 +1,6 @@
 ## LEET CODE PROBLEMS TRACKER
 
-1. [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+1. [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)[Article](https://devcorner.hashnode.dev/series/dsandalgorithms)
 2. [ ] [Contains Duplicate 2](https://leetcode.com/problems/contains-duplicate-ii/)
 3. [ ] [contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii/)
 4. [ ] [two-sum](https://leetcode.com/problems/two-sum/)
