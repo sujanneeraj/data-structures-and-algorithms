@@ -89,27 +89,50 @@ class MyLinkedList {
         void deleteAtIndex(int index) {
             int currentIndex = -1;
             
-            if(currentIndex == index-1 && (head == nullptr)) {
+            
+            if(head == nullptr) {
                 std::cout << "nothing to delete";
+                return;
             }
             
             node *currentNode = head;
-            while(currentIndex != index-1 || currentNode->next == nullptr) {
+            while(currentIndex != index-1 && currentNode->next != nullptr) {
                 currentIndex += 1;
+                
                 if(currentIndex != index-1) {
                      currentNode = currentNode->next;
                 }
             }
             
+            
+            if (currentIndex == -1) {
+                head = nullptr;
+                return;
+            }
+            
             if(currentIndex == index-1) {
-                node *tmp = new node;
-                tmp = currentNode->next;
-                currentNode->next = tmp->next;
-                delete tmp;
+               
+                
+                if(currentNode->next != nullptr){
+                   
+                     node *tmp = new node;
+                    tmp = currentNode->next;
+                    currentNode->next = tmp->next;
+                    delete tmp;
+                } else {
+                    
+                    currentNode = currentNode->next;
+                }
+                
+                
+                
+            
+                
             }
             else {
                 std::cout << "Wrong index";
             }
+            
             
         }
         
@@ -141,6 +164,8 @@ int main() {
     myLinkedList->addAtHead(1);
     myLinkedList->Display();
     
+    
+    
     myLinkedList->addAtTail(3);
     myLinkedList->Display();
     
@@ -153,7 +178,7 @@ int main() {
     myLinkedList->deleteAtIndex(1);    // now the linked list is 1->3
     myLinkedList->Display();
     
-    int result2 =  myLinkedList->get(1);              // return 2
+    int result2 =  myLinkedList->get(1);              // return 3
     std::cout << result2 << "\n";
     
     

@@ -39,7 +39,7 @@
 37. [ ] [remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 38. [ ] [copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 39. [X] [convert-1d-array-into-2d-array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)
-40. [ ] [reshape-the-matrix](https://leetcode.com/problems/reshape-the-matrix/)
+40. [X] [reshape-the-matrix](https://leetcode.com/problems/reshape-the-matrix/)
 41. [ ] [transpose-matrix](https://leetcode.com/problems/transpose-matrix/)
 42. [ ] [matrix-diagonal-sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 43. [ ] [toeplitz-matrix](https://leetcode.com/problems/toeplitz-matrix/)
