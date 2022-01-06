@@ -32,12 +32,37 @@ vector<vector<int>> solution1(vector<vector<int>>& mat, int r, int c) {
         return result;
     }
     
+vector<vector<int>> optimized(vector<vector<int>>& mat, int r, int c) {
+        int m = mat.size();
+        int n = mat[0].size();
+        
+        if(m * n != r * c) {
+            return mat;
+        }
+        
+        // convert mxn into 1x mxn
+        std::vector<std::vector<int>> result(r, std::vector<int>(c));
+        
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                int k = i*n +j;
+                int p = k/c;
+                int q = k%c;
+                result[p][q] = mat[i][j];
+            }
+        }
+        
+        
+        
+        return result;
+    }
+    
 int main() {
     std::vector<std::vector<int>> original {{1,2}, {3,4}};
     int r=1;
     int c=4;
     
-    auto result = solution1(original, r, c);
+    auto result = optimized(original, r, c);
     
     for(int i = 0; i < result.size(); i++) {
         for(int j = 0; j < result[0].size(); j++) {
