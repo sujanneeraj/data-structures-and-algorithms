@@ -14,5 +14,7 @@ add_executable(linked_list data-structures/linked_list.cpp)
 
 add_executable(1__two_sum problems/1__two_sum.cpp)
 add_executable(167__two_sum problems/167__two_sum.cpp)
+
 add_executable(217__contains_duplicate problems/217__contains_duplicate.cpp)
 add_executable(219__contains_duplicate problems/219__contains_duplicate.cpp)
+add_executable(2022 problems/2022.cpp)
