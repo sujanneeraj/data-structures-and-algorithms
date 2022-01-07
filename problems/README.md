@@ -53,7 +53,7 @@
 51. [ ] [set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 52. [ ] [count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 53. [ ] [the-k-weakest-rows-in-a-matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
-54. [ ] [valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
+54. [X] [valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
 55. [ ] [valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii/)
 56. [ ] [problems/reverse-string](https://leetcode.com/problems/reverse-string/)
 57. [ ] [reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/)
