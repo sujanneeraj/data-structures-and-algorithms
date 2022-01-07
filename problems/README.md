@@ -44,7 +44,7 @@
 42. [X] [matrix-diagonal-sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 43. [X] [toeplitz-matrix](https://leetcode.com/problems/toeplitz-matrix/)
 44. [X] [matrix-cells-in-distance-order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
-45. [ ] [spiral-matrix](https://leetcode.com/problems/spiral-matrix/)
+45. [X] [spiral-matrix](https://leetcode.com/problems/spiral-matrix/)
 46. [ ] [spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii/)
 47. [ ] [spiral-matrix-iii](https://leetcode.com/problems/spiral-matrix-iii/)
 48. [ ] [cells-with-odd-values-in-a-matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
