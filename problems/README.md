@@ -70,7 +70,7 @@
 68. [ ] [grumpy-bookstore-owner](https://leetcode.com/problems/grumpy-bookstore-owner/)
 69. [ ] [permutation-in-string](https://leetcode.com/problems/permutation-in-string/)
 70. [ ] [find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
-71. [ ] [contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/)
+71. [X] [contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/)
 72. [ ] [contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii/)
 73. [ ] [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/)
 74. [ ] [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)
