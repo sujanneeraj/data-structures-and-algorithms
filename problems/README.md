@@ -20,7 +20,7 @@
 18. [ ] [intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 19. [ ] [4sum-ii](https://leetcode.com/problems/4sum-ii/)
 20. [ ] [kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-21. [ ] [valid-anagram](https://leetcode.com/problems/valid-anagram/)
+21. [X] [valid-anagram](https://leetcode.com/problems/valid-anagram/)
 22. [ ] [group-anagrams](https://leetcode.com/problems/group-anagrams/)
 23. [ ] [unique-email-addresses](https://leetcode.com/problems/unique-email-addresses/)
 24. [ ] [majority-element](https://leetcode.com/problems/majority-element/)
