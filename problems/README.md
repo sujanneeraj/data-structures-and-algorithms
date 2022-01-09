@@ -9,7 +9,7 @@
 7. [ ] [pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
 8. [X] [time-needed-to-buy-tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
 9. [ ] [check-if-array-is-sorted-and-rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
-10. [ ] [to-lower-case](https://leetcode.com/problems/to-lower-case/)
+10. [X] [to-lower-case](https://leetcode.com/problems/to-lower-case/)
 11. [ ] [defanging-an-ip-address](https://leetcode.com/problems/defanging-an-ip-address/)
 12. [ ] [replace-all-s-to-avoid-consecutive-repeating-characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)
 13. [ ] [buddy-strings](https://leetcode.com/problems/buddy-strings/)
