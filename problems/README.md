@@ -57,7 +57,7 @@
 55. [ ] [valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii/)
 56. [X] [problems/reverse-string](https://leetcode.com/problems/reverse-string/)
 57. [X] [reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/)
-58. [ ] [reverse-only-letters](https://leetcode.com/problems/reverse-only-letters/)
+58. [X] [reverse-only-letters](https://leetcode.com/problems/reverse-only-letters/)
 59. [ ] [add-strings](https://leetcode.com/problems/add-strings/)
 60. [ ] [check-if-word-equals-summation-of-two-words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)
 61. [ ] [add-two-numbers](https://leetcode.com/problems/add-two-numbers/)
