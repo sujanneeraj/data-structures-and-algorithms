@@ -51,7 +51,7 @@
 49. [ ] [lucky-numbers-in-a-matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 50. [ ] [special-positions-in-a-binary-matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)
 51. [ ] [set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-52. [ ] [count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
+52. [X] [count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 53. [ ] [the-k-weakest-rows-in-a-matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 54. [X] [valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
 55. [ ] [valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii/)
