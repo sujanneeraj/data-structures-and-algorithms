@@ -4,7 +4,7 @@
 2. [X] [Contains Duplicate 2](https://leetcode.com/problems/contains-duplicate-ii/)
 3. [X] [contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii/)
 4. [X] [two-sum](https://leetcode.com/problems/two-sum/)
-5. [ ] [two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)
+5. [X] [two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)
 6. [ ] [two-sum-less-than-k](https://leetcode.com/problems/two-sum-less-than-k/)
 7. [ ] [pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
 8. [ ] [time-needed-to-buy-tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
