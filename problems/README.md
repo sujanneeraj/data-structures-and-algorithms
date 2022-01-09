@@ -2,7 +2,7 @@
 
 1. [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) [Explanation](https://devcorner.hashnode.dev/series/dsandalgorithms)
 2. [X] [Contains Duplicate 2](https://leetcode.com/problems/contains-duplicate-ii/)
-3. [ ] [contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii/)
+3. [X] [contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii/)
 4. [X] [two-sum](https://leetcode.com/problems/two-sum/)
 5. [ ] [two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)
 6. [ ] [two-sum-less-than-k](https://leetcode.com/problems/two-sum-less-than-k/)
