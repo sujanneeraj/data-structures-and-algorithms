@@ -73,7 +73,7 @@
 60. [X] [check-if-word-equals-summation-of-two-words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)
 61. [X] [add-two-numbers](https://leetcode.com/problems/add-two-numbers/)
 62. [ ] [add-to-array-form-of-integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
-63. [ ] [intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+63. [X] [intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 64. [ ] [implement-strstr](https://leetcode.com/problems/implement-strstr/)
 65. [ ] [substrings-of-size-three-with-distinct-characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 66. [ ] [maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/)
