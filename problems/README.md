@@ -14,7 +14,7 @@
 12. [ ] [replace-all-s-to-avoid-consecutive-repeating-characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)
 13. [ ] [buddy-strings](https://leetcode.com/problems/buddy-strings/)
 14. [ ] [license-key-formatting](https://leetcode.com/problems/license-key-formatting/)
-15. [ ] [add-strings](https://leetcode.com/problems/add-strings/)
+15. [X] [add-strings](https://leetcode.com/problems/add-strings/)
 16. [ ] [multiply-strings](https://leetcode.com/problems/multiply-strings/)
 17. [ ] [palindrome-permutation](https://leetcode.com/problems/palindrome-permutation/)
 18. [ ] [intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
