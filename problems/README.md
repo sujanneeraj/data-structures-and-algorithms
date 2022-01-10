@@ -1,5 +1,7 @@
 ## LEET CODE PROBLEMS TRACKER
 
+## Arrays and Strings
+
 1. [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) [Explanation](https://devcorner.hashnode.dev/series/dsandalgorithms)
 2. [X] [Contains Duplicate 2](https://leetcode.com/problems/contains-duplicate-ii/)
 3. [X] [contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii/)
@@ -32,12 +34,18 @@
 30. [ ] [contiguous-array](https://leetcode.com/problems/contiguous-array/)
 31. [ ] [make-sum-divisible-by-p](https://leetcode.com/problems/make-sum-divisible-by-p/)
 32. [ ] [partition-array-into-disjoint-intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)
+
+## Linked Lists
+
 33. [ ] [design-linked-list](https://leetcode.com/problems/design-linked-list/)
 34. [ ] [remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/)
 35. [ ] [delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 36. [ ] [remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 37. [ ] [remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 38. [ ] [copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+
+## Matrices
+
 39. [X] [convert-1d-array-into-2d-array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)
 40. [X] [reshape-the-matrix](https://leetcode.com/problems/reshape-the-matrix/)
 41. [X] [transpose-matrix](https://leetcode.com/problems/transpose-matrix/)
@@ -53,6 +61,9 @@
 51. [ ] [set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 52. [X] [count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 53. [ ] [the-k-weakest-rows-in-a-matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
+
+## Two Pointers (and Sliding Window) Techniques
+
 54. [X] [valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
 55. [ ] [valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii/)
 56. [X] [problems/reverse-string](https://leetcode.com/problems/reverse-string/)
