@@ -23,7 +23,7 @@
 19. [X] [4sum-ii](https://leetcode.com/problems/4sum-ii/)
 20. [X] [kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 21. [X] [valid-anagram](https://leetcode.com/problems/valid-anagram/)
-22. [ ] [group-anagrams](https://leetcode.com/problems/group-anagrams/)
+22. [X] [group-anagrams](https://leetcode.com/problems/group-anagrams/)
 23. [X] [unique-email-addresses](https://leetcode.com/problems/unique-email-addresses/)
 24. [X] [majority-element](https://leetcode.com/problems/majority-element/)
 25. [ ] [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
