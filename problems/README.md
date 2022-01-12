@@ -26,7 +26,7 @@
 22. [X] [group-anagrams](https://leetcode.com/problems/group-anagrams/)
 23. [X] [unique-email-addresses](https://leetcode.com/problems/unique-email-addresses/)
 24. [X] [majority-element](https://leetcode.com/problems/majority-element/)
-25. [ ] [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+25. [X] [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 26. [ ] [minimum-value-to-get-positive-step-by-step-sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
 27. [ ] [subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k/)
 28. [ ] [subarray-sums-divisible-by-k](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
