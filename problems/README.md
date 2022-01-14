@@ -37,8 +37,8 @@
 
 ## Linked Lists
 
-33. [ ] [design-linked-list](https://leetcode.com/problems/design-linked-list/)
-34. [ ] [remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/)
+33. [X] [design-linked-list](https://leetcode.com/problems/design-linked-list/)
+34. [X] [remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/)
 35. [ ] [delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 36. [ ] [remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 37. [ ] [remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
