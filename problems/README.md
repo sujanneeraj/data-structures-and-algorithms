@@ -135,7 +135,7 @@
 
 117. [X] [Reverse String](https://leetcode.com/problems/reverse-string/)
 118. [ ] [Pow(x,n)](https://leetcode.com/problems/powx-n/)
-119. [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+119. [X] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 120. [ ] [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
 121. [ ] [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 122. [ ] [Subsets](https://leetcode.com/problems/subsets/)
