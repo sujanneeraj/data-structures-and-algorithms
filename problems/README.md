@@ -133,7 +133,7 @@
 
 ## Recursive Thinking (Tail Recursion, Head Recursion, Math Induction, Divide-and-Conquer)
 
-117. [ ] [Reverse String](https://leetcode.com/problems/reverse-string/)
+117. [X] [Reverse String](https://leetcode.com/problems/reverse-string/)
 118. [ ] [Pow(x,n)](https://leetcode.com/problems/powx-n/)
 119. [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 120. [ ] [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
@@ -143,7 +143,7 @@
 124. [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 125. [ ] [Reverse Nodes in K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 126. [ ] [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
-127. [ ] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+127. [X] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 128. [ ] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 129. [ ] [Sort and Array](https://leetcode.com/problems/sort-an-array)
 130. [ ] [Sort List](https://leetcode.com/problems/sort-list/)
