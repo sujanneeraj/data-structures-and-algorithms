@@ -116,7 +116,7 @@
 ## Container Data Structures - Deques, Stacks and Queues, Priority Queue (Heap) - Amortized Cost Analysis
 
 102. [ ] [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
-103. [ ] [Design Linked List](https://leetcode.com/problems/design-linked-list/)
+103. [X] [Design Linked List](https://leetcode.com/problems/design-linked-list/)
 104. [ ] [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)
 105. [ ] [Insert intp a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)
 106. [ ] [Design HashSet](https://leetcode.com/problems/design-hashset/)
