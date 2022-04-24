@@ -3,12 +3,32 @@ public:
     int fib(int n) {
         
     //   return recursiveApproach(n);
-        return optimizedApproach(n);
+    //     return optimizedApproach(n);
+        
+        vector<int> dp(n+1, -1);
+        if(n<=1) {return n;}
+        
+        dp[0] = 0;
+        dp[1] = 1;
+        
+        
+        memoization(dp, n);
+        return dp[n];
         
     }
     
     
 private:
+    
+   int memoization(vector<int> &dp, int n) {
+       
+       if(dp[n] != -1) {
+           return dp[n];
+       }
+       return dp[n] = memoization(dp, n-1) +  memoization(dp, n-2);
+       
+          
+   }
     
    int optimizedApproach(int n) {
        if(n<=1) {
