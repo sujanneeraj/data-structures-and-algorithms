@@ -9,6 +9,10 @@ public:
     }
     
     int add(int val) {
+        return approachOne(val);
+    }
+private:
+    int approachOne(int val){
         container.push_back(val);
         int idx = container.size() - 1;
         while(idx > 0 && container[idx-1] > val) {
